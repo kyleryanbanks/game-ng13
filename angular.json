@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "familiar": "apps/familiar",
+    "familiar-e2e": "apps/familiar-e2e"
+  }
+}
